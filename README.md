@@ -13,10 +13,10 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 ![alt text](listagemtitulos.png)
 
 
-![alt text](Médias.png)
+![alt text](medias.png)
 
 
-![alt text](Tudo.png)
+![alt text](tudo.png)
 
 
-![alt text](Resumo.png)
+![alt text](resumo.png)
