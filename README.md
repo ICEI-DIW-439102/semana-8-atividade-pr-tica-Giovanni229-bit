@@ -19,4 +19,5 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 ![alt text](tudo.png)
 
 
-![alt text](resumo.png)
+<img width="562" height="403" alt="image" src="https://github.com/user-attachments/assets/56ba7f5a-6ae3-4156-90d5-20a1261d0be4" />
+
