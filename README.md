@@ -10,13 +10,14 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Prints do console do navegador
 
-![alt text](listagemtitulos.png)
+<img width="1019" height="149" alt="image" src="https://github.com/user-attachments/assets/cb312a3a-03ad-4227-9f32-681dece70e28" />
 
 
-![alt text](medias.png)
+<img width="1019" height="39" alt="image" src="https://github.com/user-attachments/assets/8f23f69f-635c-429c-8526-9cf87d12c488" />
 
 
-![alt text](tudo.png)
+
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/59f5c0da-bc30-4a9d-90d8-1e78e23e19e7" />
 
 
 <img width="562" height="403" alt="image" src="https://github.com/user-attachments/assets/56ba7f5a-6ae3-4156-90d5-20a1261d0be4" />
